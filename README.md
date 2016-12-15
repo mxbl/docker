@@ -1,7 +1,5 @@
 # Docker
 
----
-
 ## install/setup docker
 
 ```bash
