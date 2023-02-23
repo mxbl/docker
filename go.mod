@@ -1,4 +1,4 @@
-module docker
+module github.com/mxbl/docker
 
 go 1.19
 
